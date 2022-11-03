@@ -1,0 +1,40 @@
+{
+    "id": "1",
+    "name": "Morning Menu",
+    "items": [
+        {
+            "id": "11",
+            "name": "Pizza",
+            "group_id": "1",
+            "price_cents": 100
+        },
+        {
+            "id": "12",
+            "name": "Coke",
+            "price_cents": 50
+        },
+        {
+            "id": "13",
+            "name": "Poke",
+            "group_id": "1",
+            "price_cents": 150
+        },
+        {
+            "id": "14",
+            "name": "Cheesecake",
+            "price_cents": 150
+        }
+    ],
+    "discounts": [
+        {
+            "item_id": "11",
+            "type": "item",
+            "discount_value": 0.2
+        },
+        {
+            "type": "total",
+            "min_total": 5.0,
+            "discount_value": 0.2
+        }
+    ]
+}
