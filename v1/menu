@@ -33,7 +33,7 @@
         },
         {
             "type": "total",
-            "min_total_cents": 500.0,
+            "min_total_cents": 500,
             "discount_percentage": 0.2
         }
     ]
