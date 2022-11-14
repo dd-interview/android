@@ -29,12 +29,12 @@
         {
             "item_id": "11",
             "type": "item",
-            "discount_value": 0.2
+            "discount_percentage": 0.2
         },
         {
             "type": "total",
-            "min_total": 5.0,
-            "discount_value": 0.2
+            "min_total_cents": 500.0,
+            "discount_percentage": 0.2
         }
     ]
 }
